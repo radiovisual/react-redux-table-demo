@@ -1,10 +1,15 @@
 # react-redux-table-demo
 
-> A React/Redux Table App Demo to fulfill all your hopes and dreams.
+> A WIP React/Redux Table App Demo to fulfill all your hopes and dreams.
 
-:boom: This app is a work in progress. It is mainly here for my own experiments in React/Redux.
+**Live Demo:** [https://radiovisual.github.io/react-redux-table-demo/](https://radiovisual.github.io/react-redux-table-demo/)
 
-Live Demo: [https://radiovisual.github.io/react-redux-table-demo/](https://radiovisual.github.io/react-redux-table-demo/)
+## Screenshot
+
+Below is a screenshot showing off some of the demoed features: Username filtering, sorting by each column,
+custom row count values, `activeUser` row is highlighted, pagination, adding a new row, etc...
+
+![screenshot](media/screenshot.png)
 
 ## TODO
 
