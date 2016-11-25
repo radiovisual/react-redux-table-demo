@@ -4,6 +4,8 @@
 
 :boom: This app is a work in progress. It is mainly here for my own experiments in React/Redux.
 
+Live Demo: [https://radiovisual.github.io/react-redux-table-demo/](https://radiovisual.github.io/react-redux-table-demo/)
+
 ## TODO
 
 - [ ] Bug: sometimes must double-click to get column to sort
