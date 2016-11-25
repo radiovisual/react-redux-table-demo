@@ -1,0 +1,37 @@
+{
+  "name": "react-redux-table-demo",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1",
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "classnames": "^2.2.5",
+    "immutable": "^3.8.1",
+    "lodash": "^4.17.2",
+    "react": "^15.4.0",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.0",
+    "react-js-pagination": "^2.0.1",
+    "react-paginate": "^2.2.3",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-localstorage": "^0.4.1",
+    "redux-logger": "^2.7.4",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "npm run lint && react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "eslint src"
+  }
+}
